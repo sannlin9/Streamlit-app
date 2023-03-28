@@ -39,7 +39,7 @@ def load_data(url):
     sinasc = pd.read_csv(url)
     return sinasc
 
-sinasc = load_data(r"C:\Users\sann_\Documentos\Cursos\Projetos_CD\Git\Exercicios-EBAC\streamlit\input\SINASC_RO_2019.csv")
+sinasc = load_data(r"C:\Users\sann_\Documentos\Cursos\Projetos_CD\Git\Streamlit-app\input\SINASC_RO_2019.csv")
 
 st.markdown("Gostaria de visualizar os dados? clique em mostrar dados.")
 
