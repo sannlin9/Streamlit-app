@@ -30,7 +30,7 @@ st.title('Análise Sinasc Rôndonia - 2019')
 
 st.markdown("Este é um projeto do curso de cientista de dados da EBAC")
 
-st.markdown("### Iremos analisar o banco de dados do Sinasc do estado de Rôndonia do ano de 2019, mais informações sobre sobre o que é o sinasc estão disponiveis abaixo.")
+st.markdown("### Iremos analisar o banco de dados do Sinasc do estado de Rôndonia do ano de 2019, mais informações sobre o que é o sinasc estão disponiveis abaixo.")
 
 st.text_area('O Sinasc', value="O sistema de Informações sobre Nascidos Vivos (SINASC), implantado em 1990 para coletar dados sobre nascimentos em todo o Brasil e fornecer informações sobre natalidade para o sistema de saúde. A coleta de dados é realizada por meio da Declaração de Nascidos Vivos (DN), preenchida pelos profissionais de saúde responsáveis pela assistência ao parto ou recém-nascido, ou por parteiras tradicionais vinculadas a unidades de saúde. As DN são distribuídas pelo Ministério da Saúde para os estados, e pelos estados para os municípios, que digitam, processam e consolidam as informações no SINASC local. Os dados são transferidos para o nível estadual e, posteriormente, para o nível federal, onde são agregados por Unidade da Federação e analisados pela Coordenação-Geral de Informações e Análises Epidemiológicas (CGIAE). O SINASC possibilita a construção de indicadores úteis para o planejamento de gestão dos serviços de saúde, especialmente na área da saúde materno-infantil. O Ministério da Saúde incentiva o uso dos dados do SINASC para a formulação de indicadores epidemiológicos como instrumentos estratégicos de suporte ao planejamento das ações, atividades e programas voltados à gestão em saúde.")
 
