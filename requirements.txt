@@ -1,1 +1,5 @@
-seaborn-dev
+seaborn
+numpy
+pandas
+streamlit
+matplotlib
